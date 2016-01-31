@@ -1,0 +1,5 @@
+*.d
+*.o
+*.bak
+cscope.files
+tags
